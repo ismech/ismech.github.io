@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: https://blog.runrab.com/sitemap.xml
-Sitemap: https://blog.runrab.com/baidusitemap.xml
